@@ -13,7 +13,7 @@ Edit and update Profile information
 
 
 2.Navigate to the project directory-----
-cd ChainTech Assignment
+cd ChainTech-Assignment
 
 
 
