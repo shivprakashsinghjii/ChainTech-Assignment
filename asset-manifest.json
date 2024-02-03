@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chainTech/static/css/main.34560cb4.css",
+    "main.js": "/chainTech/static/js/main.1a93b2e6.js",
+    "static/js/592.a5ecb00a.chunk.js": "/chainTech/static/js/592.a5ecb00a.chunk.js",
+    "index.html": "/chainTech/index.html",
+    "main.34560cb4.css.map": "/chainTech/static/css/main.34560cb4.css.map",
+    "main.1a93b2e6.js.map": "/chainTech/static/js/main.1a93b2e6.js.map",
+    "592.a5ecb00a.chunk.js.map": "/chainTech/static/js/592.a5ecb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34560cb4.css",
+    "static/js/main.1a93b2e6.js"
+  ]
+}
